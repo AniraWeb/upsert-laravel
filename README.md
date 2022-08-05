@@ -20,10 +20,12 @@ Small Project on Laravel, which demonstrate developing process to create simple 
 
 ## Speed Script Execution
 
-Add 1000 new products = 1sec
+- Add 1000 new products = 1sec.
+
 {"errors":false,"message":"Success","data":{"created":1000,"updated":0,"time":"1sec"}}
 
-Update 1000 new products = 2sec
+- Update 1000 new products = 2sec.
+
 {"errors":false,"message":"Success","data":{"created":0,"updated":1000,"time":"2sec"}}
 
 ## Contact
